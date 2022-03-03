@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://nadyar9.github.io/cv/english/" target="_blank">Nadya</a>:sunny:</h1>
+<h1 align="center">Hello there, I'm <a href="https://nadyar9.github.io/cv/english/" target="_blank">Nadya</a>:sunny:</h1>
 <h3 align="center">Intern Frontend Developer</h3>
 <h5> :innocent: I'm currently looking for my first job </h5>
 <h5> :books: I’m currently learning React, Redux, TypeScript, UX/UI </h5>
