@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, I'm <a href="https://nadyar9.github.io/cv/english/" target="_blank">Nadya</a>:sunny:</h1>
-<h3 align="center">Intern Frontend Developer</h3>
-<h5> :innocent: I'm currently looking for my first job </h5>
+<h3 align="center">Junior Frontend Developer</h3>
 <h5> :books: I’m currently learning React, Redux, TypeScript, UX/UI </h5>
 <h5> :envelope: How to reach me: tg :arrow_right: @razinkovanadya :fast_forward: email :arrow_right: nadezhdarazinkova9@gmail.com </h5>
 
